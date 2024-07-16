@@ -22,6 +22,6 @@ To install the Calculator Alpha V3 as a bookmarklet, follow these simple steps:
 
 ## Usage
 
-Whenever you need to calculate something, simply click on the "Calculator V2" bookmark in your browser's bookmarks bar. Enter your calculation in the prompt, and the result will be displayed in an alert box.
+Whenever you need to calculate something, simply click on the "BitCalc Alpha V3" bookmark in your browser's bookmarks bar. Enter your calculation in the prompt, and the result will be displayed in an alert box.
 
 Enjoy your always-accessible browser calculator!
