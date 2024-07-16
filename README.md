@@ -1,6 +1,6 @@
-# Calculator V2 Bookmarklet
+# Introducing The BitCalc Alpha V3 Calculator Bookmarklet
 
-Welcome to Calculator V2, a handy tool that turns your browser into a powerful calculator capable of performing basic arithmetic operations. This calculator is easily accessible, deployable with a single click, and operates completely offline.
+Welcome to Calculator Alpha V3, a handy tool that turns your browser into a powerful calculator capable of performing complex arithmetic operations. This calculator is easily accessible, deployable with a single click, and operates completely offline.
 
 ## Features
 
@@ -8,16 +8,17 @@ Welcome to Calculator V2, a handy tool that turns your browser into a powerful c
 - **Deploy Anywhere**: Works in any browser without needing any installations.
 - **Unblockable**: Designed to be used in any web environment.
 - **Offline Functionality**: No internet connection required, perfect for situations where connectivity is an issue.
+- **Completely Hidden**: With one click, you can open and close your BitCalc Window!
 
 ## Installation
 
-To install the Calculator V2 as a bookmarklet, follow these simple steps:
+To install the Calculator Alpha V3 as a bookmarklet, follow these simple steps:
 
 1. Right-click on your bookmarks bar and select 'Add new bookmark' or simply drag the link below to your bookmarks bar.
 
 2. Copy the code from either of the bookmarklet code and paste it into the URL or Location field of the new bookmark
 
-3. Name your bookmark something descriptive, like "Calculator V2 (Or V1)".
+3. Name your bookmark something descriptive, like "BitCalc Alpha V3 (Or V1 or V2)".
 
 ## Usage
 
